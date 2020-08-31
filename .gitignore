@@ -1,0 +1,13 @@
+# Pycharm
+.idea/
+__pycache__/
+
+# Python
+*.py[cod]
+
+# Project
+logs/
+secret.py
+
+# Packaging
+Lib/
